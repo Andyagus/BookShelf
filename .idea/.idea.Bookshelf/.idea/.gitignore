@@ -1,0 +1,107 @@
+﻿# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ===================================== #
+# Visual Studio / Rider generated files #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+Desktop.ini
+
+# ============ #
+# Builds       #
+# ============ #
+*.apk
+*.aab
+*.ipa
+*.xap
+
+# ======= #
+# Others  #
+# ======= #
+*.swp
+*.swp
+*.bak
+*.tmp
+*.log
+*.rar
+*.zip
+*.7z
+*.gz
+*.bzip2
+*.tgz
+*.tar
+*.exe
+*.msi
+*.webm
+*.mp4
+*.mov
+*.flv
+*.wma
+*.wmv
+*.mpg
+*.mpeg
+*.3gp
+*.asf
+*.avi
+*.flac
+*.m4a
+*.mp3
+*.oga
+*.ogg
+
+# ========================= #
+# Default ignored files     #
+# ========================= #
+/shelf/
+/workspace.xml
+
+# ========================= #
+# Rider ignored files       #
+# ========================= #
+/projectSettingsUpdater.xml
+/.idea.Bookshelf.iml
+/contentModel.xml
+/modules.xml
+
+# ===================================== #
+# Editor-based HTTP Client requests     #
+# ===================================== #
+/httpRequests/
+
+# ===================================== #
+# Datasource local storage ignored files #
+# ===================================== #
+/dataSources/
+/dataSources.local.xml
